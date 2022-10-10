@@ -1,10 +1,10 @@
 ### Hi there I am codezey I do stuff sometimes! 
 
 
-** Some of my coding knowledge! is: 
+### Some of my coding knowledge! is: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://c0dezey.github.io/HypixelPlus/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://c0dezey.github.io/HypixelPlus/)
 
 
 

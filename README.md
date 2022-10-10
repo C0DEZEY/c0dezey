@@ -5,6 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://c0dezey.github.io/HypixelPlus/)
 
 
+## My top Langs that i code in! 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
 

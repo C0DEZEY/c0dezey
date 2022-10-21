@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://c0dezey.github.io/HypixelPlus/)
 
 
-My coding status (Most projects are not here) 
+### My coding status (Most projects are not here) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)

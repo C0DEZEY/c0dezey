@@ -1,4 +1,4 @@
-### Hi there I am codezey I do stuff sometimes! 
+### Hi there I am Codezey! I do stuff sometimes! 
 
 
 ### Some of my coding knowledge! is: 
@@ -15,3 +15,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dezey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## I don't know why your here to be honest 
+I don't use github that much but its nice of you to stop by
+please leave a star if you can no worries 

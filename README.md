@@ -22,4 +22,4 @@ please leave a star if you can no worries
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://hypixel.plus)

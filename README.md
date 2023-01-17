@@ -23,3 +23,5 @@ please leave a star if you can no worries
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://hypixel.plus)
+
+[![wakatime](https://wakatime.com/badge/user/8234c2d2-7052-49b7-9a38-78d8e2502efa/project/ad248bf6-f571-448c-90d7-03aaed165cde.svg)](https://wakatime.com/badge/user/8234c2d2-7052-49b7-9a38-78d8e2502efa/project/ad248bf6-f571-448c-90d7-03aaed165cde)

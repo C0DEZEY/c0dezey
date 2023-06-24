@@ -4,7 +4,7 @@
 ### Some of my coding knowledge! is: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://c0dezey.github.io/Discord/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,java)](https://c0dezey.github.io/Discord/)
 
 
 ### My coding status (Most projects are not here) 

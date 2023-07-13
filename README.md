@@ -7,10 +7,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,java)](https://c0dezey.github.io/Discord/)
 
 
-### My coding status (Most projects are not here) 
+### Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
 
 ## I don't know why your here to be honest 
 I don't use github that much but its nice of you to stop by

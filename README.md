@@ -52,7 +52,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=false&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezey&hide_progress=false&theme=dark)
 ###
 

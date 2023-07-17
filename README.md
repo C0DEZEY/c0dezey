@@ -54,8 +54,7 @@
 ###
 
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=C0dezey&show_icons=true&theme=dark" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Codezey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
 </div>
 
 ###

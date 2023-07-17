@@ -53,9 +53,9 @@
 
 ###
 
-<div align="center">
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
-</div>
+
 
 ###
 

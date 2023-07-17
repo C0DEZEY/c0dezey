@@ -53,7 +53,7 @@
 
 ###
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dezey&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezey&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezey&hide_progress=false&theme=dark)
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Codezey.Codezey&left_color=slategray"  />

@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Java<br>- ⚡Currently working on MandoMc And Hypixel.plus</p>
+<p align="left">- 📚 I'm currently learning Java<br>- ⚡Currently working on Minecraft Plugins and Mods</p>
 
 ###
 

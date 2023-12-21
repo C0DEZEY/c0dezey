@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Java<br>- ⚡Currently working on Minecraft Plugins and Mods</p>
+<p align="left">- 📚 I'm currently learning CPP <br>- ⚡Currently working on Api backend</p>
 
 ###
 
@@ -49,10 +49,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ###
-  !![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0dezey\&rank_icon=percentile)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0dezey\&rank_icon=percentile)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezey&hide_progress=false&theme=dark)
 ###
 

@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning CPP <br>- ⚡Currently working on Api backend</p>
+<p align="left">- 📚 I'm currently learning CPP <br>- ⚡Currently working on My site</p>
 
 ###
 

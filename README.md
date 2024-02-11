@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Java And TypeSciprt <br>- ⚡Currently working on My site</p>
+<p align="left">- 📚 I'm currently learning Java <br>- ⚡Currently working on Minecraft Mod's and Backends of sites!</p>
 
 ###
 

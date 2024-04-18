@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=c0dezey.c0dezey&"  />
+ ![](https://komarev.com/ghpvc/?C0dezey&color=green)
 </div>
 
 ###

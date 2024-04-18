@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
  ![](https://komarev.com/ghpvc/?C0dezey&color=green)
-</div>
 
 ###
 

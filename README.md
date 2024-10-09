@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=c0dezey-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=c0dezey&theme=onedark)](https://github.com/c0dezey)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/c0dezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c0dezey" height="30" width="40" /></a>

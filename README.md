@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0dezey" alt="c0dezey" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=c0dezey-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
